@@ -1,0 +1,45 @@
+CMakeFiles/f103ze_usart_stlink.elf.dir/Core/Src/syscalls.c.obj: \
+ E:\stm32_study\code\clion\f103ze_usart_stlink\Core\Src\syscalls.c \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\stat.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\_ansi.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\newlib.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\_newlib_version.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\config.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\ieeefp.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\features.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\time.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\_ansi.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\cdefs.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\_default_types.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\lib\gcc\arm-none-eabi\11.2.1\include\stddef.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\reent.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_types.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\_types.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\lock.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\time.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\types.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_stdint.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\endian.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\_endian.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\select.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_sigset.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_timeval.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\timespec.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_timespec.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_pthreadtypes.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\sched.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\types.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\_locale.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\stdlib.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\stdlib.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\alloca.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\errno.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\errno.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\stdio.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\lib\gcc\arm-none-eabi\11.2.1\include\stdarg.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\stdio.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\signal.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\signal.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\time.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\machine\_time.h \
+ e:\arm\ gnu\ toolchain\ arm-none-eabi\11.2\ 2022.02\arm-none-eabi\include\sys\times.h
